@@ -1,0 +1,82 @@
+.GG {
+    background-color: rgb(13, 133, 45);
+    text-align: center;
+    padding: 20px;
+   
+}
+
+.GG ol {
+    list-style: none;
+}
+
+.GG li {
+    display: inline;
+    padding: 0px;
+    margin: 0px;
+}
+
+.GG a {
+    text-decoration: wavy;
+    margin-right: 20px;
+    font-weight: bolder;
+    color: rgb(253, 253, 253);
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+label {
+    font-size: 20px;
+}
+input {
+    size: 9ch;
+}
+
+img {
+    width: 400px;
+    border-radius: 200px;
+    display: inline;
+}
+
+
+
+
+body {
+    background-color: bisque;
+    font-size: medium;
+
+}
+h1 {
+    background-color: rgb(38, 122, 23);
+    color: white;
+}
+
+h2 {
+    background-color:rgb(13, 133, 45) ;
+    color: aliceblue;
+}
+ h3 {
+    background-color: rgb(13, 133, 45);
+    color: white;
+ }
+a {
+    list-style: none;
+}
+textarea {
+    height: 200px;
+    width: 300px;
+}
+ Button:hover {
+    color: rgb(13, 133, 45);
+    background-color: rgb(253, 253, 253);
+ }
+ Button {
+    padding: 15px;
+    border-radius: 12px;
+    color: rgb(246, 245, 245);
+    background-color: rgb(13, 133, 45);
+    border: none;
+
+ }
+
+
+
+ 
